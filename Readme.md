@@ -12,3 +12,4 @@ Connecting to MongoDB
 Authentication & Authorization (JWT)
 
 File uploads, middlewares, and more
+A special thanks to @https://github.com/hiteshchoudhary
