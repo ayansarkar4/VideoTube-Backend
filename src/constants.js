@@ -1,0 +1,1 @@
+export const DB_NAME = "firstdb"; // Name of the database to be created in MongoDB Atlas"
